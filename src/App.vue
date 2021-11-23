@@ -24,12 +24,5 @@ export default {
     padding: 0;
     box-sizing: border-box;
   }
- .container{
-   width: 600px;
-   margin: 10px auto;
-   padding: 50px;
-   background-color: brown;
-   box-shadow: 10px 20px 25px rgba(0, 0, 0, .3);
-   text-align:center ;
- }
+ 
 </style>
